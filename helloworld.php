@@ -1,4 +1,4 @@
 <?php
 
 print("helloa");
-print("konichiwa");
+print("konichiwaa");
